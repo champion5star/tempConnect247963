@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "705988719876",
+    "project_id": "temp-connect-974c5",
+    "storage_bucket": "temp-connect-974c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705988719876:android:3435b1a5aa73e3637ecc51",
+        "android_client_info": {
+          "package_name": "com.tempconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705988719876-5u2gek3erij3fncbn3kdsrh5nv49c1si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tempconnect",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "705988719876-d9p6rtc8aotngq68al6dog5idr89l0kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tempconnect",
+            "certificate_hash": "f4b4dec8acd7519a946a1a9ec42ff9137381664e"
+          }
+        },
+        {
+          "client_id": "705988719876-qhau4lo98v6l03raupgcsa6heamqol81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tempconnect",
+            "certificate_hash": "e50c70f7569d6c5fe0c1704dd889e143f1add389"
+          }
+        },
+        {
+          "client_id": "705988719876-a4mf4cbog9ed4dlts3jdjpl0bcbso8hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs2Hbrhir8ID7b5QALhh851W9DWzmmnbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705988719876-a4mf4cbog9ed4dlts3jdjpl0bcbso8hh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705988719876-vhj8gteigfh64hoios7fcrn38ki23g94.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.tempconnect.job"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3283940972449234~3391553430"
+    }
+  ],
+  "configuration_version": "1"
+}

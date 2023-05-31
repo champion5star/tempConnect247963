@@ -1,0 +1,79 @@
+{
+  "_from": "react-native-tags@^2.2.0",
+  "_id": "react-native-tags@2.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-y0Xd6ZkJH5ttfHK3P210ugPDW7vLg2H1E5KN8NqQ/crI0gL7naMftHHbN/gozRjoxQy8AJOh3/mDqKOOymX/KQ==",
+  "_location": "/react-native-tags",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-tags@^2.2.0",
+    "name": "react-native-tags",
+    "escapedName": "react-native-tags",
+    "rawSpec": "^2.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-tags/-/react-native-tags-2.2.0.tgz",
+  "_shasum": "ea302c54d5c3aa0b71f20b6818887a620a129e53",
+  "_spec": "react-native-tags@^2.2.0",
+  "_where": "/Users/h/Documents/Work/06/TempConnect/jobapp",
+  "author": {
+    "name": "Peter Pistorius",
+    "email": "peter.pistorius@gmail.com",
+    "url": "http://github.com/peterp/"
+  },
+  "bugs": {
+    "url": "https://github.com/peterp/react-native-tags/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Tag input component for React Native",
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "babel-preset-react-native": "^4.0.1",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "jest": "^25.1.0",
+    "prop-types": "^15.7.2",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-native": "^0.61.5",
+    "react-test-renderer": "^16.13.0"
+  },
+  "files": [
+    "Tags/*.js"
+  ],
+  "homepage": "https://github.com/peterp/react-native-tags#readme",
+  "jest": {
+    "preset": "react-native",
+    "transform": {
+      "^.+\\.js$": "<rootDir>/node_modules/react-native/jest/preprocessor.js"
+    }
+  },
+  "keywords": [
+    "react native",
+    "tags",
+    "tag input"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-tags",
+  "peerDependencies": {
+    "react": ">=16.13",
+    "react-native": ">=0.61"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/peterp/react-native-tags.git"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "version": "2.2.0"
+}
